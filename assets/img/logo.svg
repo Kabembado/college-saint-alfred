@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <path d="M32 3 L57 12 V32 C57 47 46 57 32 61 C18 57 7 47 7 32 V12 Z" fill="#0f3d73" stroke="#e0a526" stroke-width="3"/>
+  <path d="M18 26 L32 20 L46 26 L32 32 Z" fill="#e0a526"/>
+  <path d="M23 29 V36 C23 39 41 39 41 36 V29 L32 33 Z" fill="#ffffff"/>
+  <text x="32" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-weight="700" fill="#ffffff">CSA</text>
+</svg>
