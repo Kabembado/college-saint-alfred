@@ -24,7 +24,7 @@ Conçu pour être hébergé gratuitement sur **Vercel** (Next.js + base de donn�
 2. Cliquez sur **Add New… → Project**.
 3. Choisissez le dépôt **college-saint-alfred** → **Import**.
 4. Vercel reconnaît automatiquement **Next.js**. Ne changez rien et cliquez sur **Deploy**.
-   *(Si le code se trouve sur une autre branche que `main`, fusionnez-la d'abord dans `main` sur GitHub.)*
+   *(Vercel publie la branche par défaut du dépôt GitHub. Pour en changer : **Settings → Git → Production Branch**.)*
 
 Le site s'affiche déjà, mais sans base de données : passez aux étapes suivantes.
 
